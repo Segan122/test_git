@@ -1,3 +1,3 @@
 # test_git
 
-fichiers test de github
+fichiers test de git/github
